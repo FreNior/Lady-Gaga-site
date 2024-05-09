@@ -1,0 +1,83 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(../img/LG_Background.png);
+    border-image: fill;
+    color: #97c895;
+    
+}
+
+/* Redimensionando as imagens */
+img {
+    width: 400px;
+    }
+
+/* Dimensionando as legendas das fotos */
+figcaption {
+    font-size: small;
+}
+
+.container {
+    max-width: 1100px;
+    background-color: #004400;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.header {
+    text-align: center;
+    font-size: 20px;
+}
+
+.featured-image {
+    text-align: center;
+}
+
+.main-paragraph {
+    font-style: italic;
+}
+
+.biography-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #f822f4;
+    border-bottom: 1px dashed #f822f4;
+}
+
+.quotes-container {
+    padding: 30px;
+    background-color: #007700; 
+}
+
+.quotes-container blockquote {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.quotes-container p {
+    font-style: italic;
+}
+
+.curiosities-container {
+    margin: 25px;
+    padding: 25px;
+    border-top: 1px dashed #f822f4;
+    border-bottom: 1px dashed #f822f4;
+}
+.curiosities-container li {
+    margin: 30px;
+}
+
+.img-bold {
+    font-weight: bold;
+    text-align: center;
+}
+
